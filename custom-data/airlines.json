@@ -1235,5 +1235,29 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
-  }
+  },
+  {
+    "icao": "BTE",
+    "name": "New England Airlink",
+    "callsign": "Baystate",
+    "virtual": true
+  },
+  {
+    "icao": "LOB",
+    "name": "New England Virtual Cargo",
+    "callsign": "Lobster",
+    "virtual": true
+  },
+  {
+    "icao": "NPJ",
+    "name": "Northeastern Private Jets",
+    "callsign": "Southie",
+    "virtual": true
+  },
+  {
+    "icao": "STS",
+    "name": "Stratus Aviation Academy",
+    "callsign": "Stratus",
+    "virtual": true
+  },
 ]
