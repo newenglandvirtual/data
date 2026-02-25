@@ -1235,5 +1235,23 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "NXL",
+    "name": "New England Airlink",
+    "callsign": "BAYSTATE",
+    "virtual": true
+  },
+  {
+    "icao": "LOB",
+    "name": "New England Cargo",
+    "callsign": "LOBSTER",
+    "virtual": true
+  },
+  {
+    "icao": "AXI",
+    "name": "Axiom",
+    "callsign": "AXIOM",
+    "virtual": true
   }
 ]
