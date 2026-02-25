@@ -1656,5 +1656,17 @@
     "name": "Medium5 VA",
     "callsign": "Jellyfish",
     "virtual": true
+  },
+  {
+    "icao": "NXL",
+    "name": "New England Airlink",
+    "callsign": "BAYSTATE",
+    "virtual": true
+  },
+  {
+    "icao": "LOB",
+    "name": "New England Cargo",
+    "callsign": "LOBSTER",
+    "virtual": true
   }
 ]
